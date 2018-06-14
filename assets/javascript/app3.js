@@ -89,7 +89,7 @@ $(document).ready(function () {
       "<img class='img-capitol' src='assets/images/central/ne.jpg' alt='State Capitol Building in Lincoln, Nebraska'>",
       "<img class='img-capitol' src='assets/images/central/ks.jpg' alt='State Capitol Building in Topeka, Kansas'>",
       "<img class='img-capitol' src='assets/images/central/ok.jpg' alt='State Capitol Building in Oklahoma City, Oklahoma'>",
-      "<img class='img-capitol' src='assets/images/central/tx.jpg' alt='State Capitol Building in Austin, Texas'>",
+      "<img class='img-capitol' src='assets/images/central/tx.JPG' alt='State Capitol Building in Austin, Texas'>",
       "<img class='img-capitol' src='assets/images/central/nd.jpg' alt='State Capitol Building in Bismarck, North Dakota'>",
       "<img class='img-capitol' src='assets/images/central/sd.jpg' alt='State Capitol Building in Pierre, South Dakota'>"
     ],

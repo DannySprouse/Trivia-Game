@@ -69,13 +69,13 @@ $(document).ready(function () {
     imagesArrayNorth: [
       "<img class='img-capitol' src='assets/images/northeast/me.jpg' alt='State Capitol Building in Augusta, Maine'>",
       "<img class='img-capitol' src='assets/images/northeast/vt.jpg' alt='State Capitol Building in Montpelier, Vermont'>",
-      "<img class='img-capitol' src='assets/images/northeast/nh.jpg' alt='State Capitol Building in Concord, New Hampshire'>",
-      "<img class='img-capitol' src='assets/images/northeast/ny.jpg' alt='State Capitol Building in Albany, New York'>",
+      "<img class='img-capitol' src='assets/images/northeast/nh.JPG' alt='State Capitol Building in Concord, New Hampshire'>",
+      "<img class='img-capitol' src='assets/images/northeast/ny.JPG' alt='State Capitol Building in Albany, New York'>",
       "<img class='img-capitol' src='assets/images/northeast/nj.jpg' alt='State Capitol Building in Trenton, New Jersey'>",
       "<img class='img-capitol' src='assets/images/northeast/ma.jpg' alt='State Capitol Building in Boston, Massachusetts'>",
       "<img class='img-capitol' src='assets/images/northeast/ct.jpg' alt='State Capitol Building in Hartford, Connecticut'>",
       "<img class='img-capitol' src='assets/images/northeast/ri.jpg' alt='State Capitol Building in Providence, Rhode Island'>",
-      "<img class='img-capitol' src='assets/images/northeast/pa.jpg' alt='State Capitol Building in Harrisburg, Pennsylvania'>",
+      "<img class='img-capitol' src='assets/images/northeast/pa.JPG' alt='State Capitol Building in Harrisburg, Pennsylvania'>",
       "<img class='img-capitol' src='assets/images/northeast/md.jpg' alt='State Capitol Building in Annapolis, Maryland'>",
       "<img class='img-capitol' src='assets/images/northeast/de.jpg' alt='State Capitol Building in Dover, Delaware'>"
     ],

@@ -82,7 +82,7 @@ $(document).ready(function () {
       "<img class='img-capitol' src='assets/images/west/id.jpg' alt='State Capitol Building in Boise, Idaho'>",
       "<img class='img-capitol' src='assets/images/west/wy.jpg' alt='State Capitol Building in Cheyenne, Wyoming'>",
       "<img class='img-capitol' src='assets/images/west/nv.jpg' alt='State Capitol Building in Carson City, Nevada'>",
-      "<img class='img-capitol' src='assets/images/west/ut.jpg' alt='State Capitol Building in Salt Lake City, Utah'>",
+      "<img class='img-capitol' src='assets/images/west/ut.JPG' alt='State Capitol Building in Salt Lake City, Utah'>",
       "<img class='img-capitol' src='assets/images/west/az.jpg' alt='State Capitol Building in Phoenix, Arizona'>",
       "<img class='img-capitol' src='assets/images/west/co.jpg' alt='State Capitol Building in Denver, Colorado'>",
       "<img class='img-capitol' src='assets/images/west/nm.jpg' alt='State Capitol Building in Santa Fe, New Mexico'>",
