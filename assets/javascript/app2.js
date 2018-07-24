@@ -71,18 +71,18 @@ $(document).ready(function () {
     ],
 
     imagesArraySouth: [
-      "<img class='img-capitol' src='assets/images/southeast/fl.jpg' alt='State Capitol Building in Tallahassee, Florida'>",
-      "<img class='img-capitol' src='assets/images/southeast/ga.jpg' alt='State Capitol Building in Atlanta, Georgia'>",
-      "<img class='img-capitol' src='assets/images/southeast/al.jpg' alt='State Capitol Building in Montgomery, Alabama'>",
-      "<img class='img-capitol' src='assets/images/southeast/ms.jpg' alt='State Capitol Building in Jackson, Mississippi'>",
-      "<img class='img-capitol' src='assets/images/southeast/la.jpg' alt='State Capitol Building in Baton Rouge, Louisiana'>",
-      "<img class='img-capitol' src='assets/images/southeast/ar.jpg' alt='State Capitol Building in Little Rock, Arkansas'>",
-      "<img class='img-capitol' src='assets/images/southeast/tn.jpg' alt='State Capitol Building in Nashville, Tennessee'>",
-      "<img class='img-capitol' src='assets/images/southeast/sc.jpg' alt='State Capitol Building in Columbia, South Carolina'>",
-      "<img class='img-capitol' src='assets/images/southeast/nc.jpg' alt='State Capitol Building in Raleigh, North Carolina'>",
-      "<img class='img-capitol' src='assets/images/southeast/ky.jpg' alt='State Capitol Building in Frankfort, Kentucky'>",
-      "<img class='img-capitol' src='assets/images/southeast/va.jpg' alt='State Capitol Building in Richmond, Virginia'>",
-      "<img class='img-capitol' src='assets/images/southeast/wv.jpg' alt='State Capitol Building in Charleston, West Virginia'>"
+      "<img class='img-hor' src='assets/images/southeast/fl.jpg' alt='State Capitol Building in Tallahassee, Florida'>",
+      "<img class='img-ver' src='assets/images/southeast/ga.jpg' alt='State Capitol Building in Atlanta, Georgia'>",
+      "<img class='img-ver' src='assets/images/southeast/al.jpg' alt='State Capitol Building in Montgomery, Alabama'>",
+      "<img class='img-ver' src='assets/images/southeast/ms.jpg' alt='State Capitol Building in Jackson, Mississippi'>",
+      "<img class='img-hor' src='assets/images/southeast/la.jpg' alt='State Capitol Building in Baton Rouge, Louisiana'>",
+      "<img class='img-hor' src='assets/images/southeast/ar.jpg' alt='State Capitol Building in Little Rock, Arkansas'>",
+      "<img class='img-hor' src='assets/images/southeast/tn.jpg' alt='State Capitol Building in Nashville, Tennessee'>",
+      "<img class='img-hor' src='assets/images/southeast/sc.jpg' alt='State Capitol Building in Columbia, South Carolina'>",
+      "<img class='img-hor' src='assets/images/southeast/nc.jpg' alt='State Capitol Building in Raleigh, North Carolina'>",
+      "<img class='img-hor' src='assets/images/southeast/ky.jpg' alt='State Capitol Building in Frankfort, Kentucky'>",
+      "<img class='img-hor' src='assets/images/southeast/va.jpg' alt='State Capitol Building in Richmond, Virginia'>",
+      "<img class='img-hor' src='assets/images/southeast/wv.jpg' alt='State Capitol Building in Charleston, West Virginia'>"
     ],
 
     showClock: "",

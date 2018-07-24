@@ -75,19 +75,19 @@ $(document).ready(function () {
     ],
 
     imagesArrayWest: [
-      "<img class='img-capitol' src='assets/images/west/wa.jpg' alt='State Capitol Building in Olympia, Washington'>",
-      "<img class='img-capitol' src='assets/images/west/or.jpg' alt='State Capitol Building in Salem, Oregon'>",
-      "<img class='img-capitol' src='assets/images/west/ca.jpg' alt='State Capitol Building in Sacramento, California'>",
-      "<img class='img-capitol' src='assets/images/west/mt.jpg' alt='State Capitol Building in Helena, Montana'>",
-      "<img class='img-capitol' src='assets/images/west/id.jpg' alt='State Capitol Building in Boise, Idaho'>",
-      "<img class='img-capitol' src='assets/images/west/wy.jpg' alt='State Capitol Building in Cheyenne, Wyoming'>",
-      "<img class='img-capitol' src='assets/images/west/nv.jpg' alt='State Capitol Building in Carson City, Nevada'>",
-      "<img class='img-capitol' src='assets/images/west/ut.JPG' alt='State Capitol Building in Salt Lake City, Utah'>",
-      "<img class='img-capitol' src='assets/images/west/az.jpg' alt='State Capitol Building in Phoenix, Arizona'>",
-      "<img class='img-capitol' src='assets/images/west/co.jpg' alt='State Capitol Building in Denver, Colorado'>",
-      "<img class='img-capitol' src='assets/images/west/nm.jpg' alt='State Capitol Building in Santa Fe, New Mexico'>",
-      "<img class='img-capitol' src='assets/images/west/ak.jpg' alt='State Capitol Building in Juneau, Alaska'>",
-      "<img class='img-capitol' src='assets/images/west/hi.jpg' alt='State Capitol Building in Honolulu, Hawaii'>"
+      "<img class='img-hor' src='assets/images/west/wa.jpg' alt='State Capitol Building in Olympia, Washington'>",
+      "<img class='img-hor' src='assets/images/west/or.jpg' alt='State Capitol Building in Salem, Oregon'>",
+      "<img class='img-ver' src='assets/images/west/ca.jpg' alt='State Capitol Building in Sacramento, California'>",
+      "<img class='img-hor' src='assets/images/west/mt.jpg' alt='State Capitol Building in Helena, Montana'>",
+      "<img class='img-ver' src='assets/images/west/id.jpg' alt='State Capitol Building in Boise, Idaho'>",
+      "<img class='img-hor' src='assets/images/west/wy.jpg' alt='State Capitol Building in Cheyenne, Wyoming'>",
+      "<img class='img-ver' src='assets/images/west/nv.jpg' alt='State Capitol Building in Carson City, Nevada'>",
+      "<img class='img-ver' src='assets/images/west/ut.JPG' alt='State Capitol Building in Salt Lake City, Utah'>",
+      "<img class='img-ver' src='assets/images/west/az.jpg' alt='State Capitol Building in Phoenix, Arizona'>",
+      "<img class='img-hor' src='assets/images/west/co.jpg' alt='State Capitol Building in Denver, Colorado'>",
+      "<img class='img-ver' src='assets/images/west/nm.jpg' alt='State Capitol Building in Santa Fe, New Mexico'>",
+      "<img class='img-hor' src='assets/images/west/ak.jpg' alt='State Capitol Building in Juneau, Alaska'>",
+      "<img class='img-hor' src='assets/images/west/hi.jpg' alt='State Capitol Building in Honolulu, Hawaii'>"
     ],
 
     showClock: "",
