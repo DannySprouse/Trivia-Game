@@ -3,6 +3,8 @@ TRIVIA GAME
 
 Tools: HTML5, CSS3, Bootstrap4, JavaScript, jQuery, Google Fonts
 
+Responsiveness:  Game is completely responsive and can be played on a desktop, laptop, tablet/pad or smartphone
+
 Summary: This is a U.S. State Capitals trivia game that consists of a home page with links to four regions of the U.S. with a subset of U.S. states representing that region. The game has a countdown timer where the user has to select their answer within a matter of seconds, and provides a summary score at the end of each round, or region played. The player can receive one of three messages during play: either time is up, their response is correct, or their response is incorrect.
 
 Problem: The task was to create a trivia game with a timer using JavaScript for the logic and jQuery to manipulate the HTML. The goal was to display one question per page, have the time count down, and show a results screen informing the user of the outcome, and then automatically displaying the next question for the user without any user input, until the final scoreboard is reached.
