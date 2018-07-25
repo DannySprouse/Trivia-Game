@@ -342,23 +342,4 @@ footer {
 
 /* Remove hover to avoid inadvertently highlighting selection */
 
-@media (hover: none) {
-  #oneStop:hover {
-    visibility: hidden; 
-  }
-  .fab:hover {    
-    visibility: hidden; 
-  }
-  .start-button:hover {    
-    visibility: hidden; 
-  }
-  .answer:hover {    
-    visibility: hidden; 
-  }
-  .reset-button:hover {    
-    visibility: hidden;
-   }
-  .next-button:hover {   
-    visibility: hidden;
-   }
-}
+
