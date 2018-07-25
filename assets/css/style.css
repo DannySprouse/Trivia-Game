@@ -280,9 +280,6 @@ footer {
     font-size: 30px;
   }
 
-  .social-icons {
-    font-size: 20px;
-  }
 }
 
 /* On screens that are 600px or less, activate line break */
@@ -301,6 +298,9 @@ footer {
     width: 80%;
     font-size: 80%;
     padding: 5px;
+  }
+  .social-icons {
+    font-size: 20px;
   }
 }
 
