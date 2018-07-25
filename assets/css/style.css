@@ -342,4 +342,23 @@ footer {
 
 /* Remove hover to avoid inadvertently highlighting selection */
 
-
+@media (hover: hover) {
+  #oneStop:hover {
+    color: red;
+  }
+  .fab:hover {    
+    background-color: #d9ad97;
+  }
+  .start-button:hover {    
+    background-color: #9B0B00;
+  }
+  .answer:hover {    
+    background-color: #fff;
+  }
+  .reset-button:hover {    
+    background-color: #9B0B00;
+   }
+  .next-button:hover {   
+    background-color: #fff;
+   }
+}
