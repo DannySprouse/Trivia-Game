@@ -303,6 +303,7 @@ footer {
   }
   .social-icons {
     font-size: 18px;
+    padding-right: 5px;
   }
 }
 
@@ -342,10 +343,22 @@ footer {
 /* Remove hover to avoid inadvertently highlighting selection */
 
 @media (hover: none) {
-  #oneStop:hover {color: inherit; }
-  .fab:hover {color: inherit; }
-  .start-button:hover {color: inherit; }
-  .answer:hover {color: inherit; }
-  .reset-button:hover {color: inherit; }
-  .next-button:hover {color: inherit; }
+  #oneStop:hover {
+    visibility: hidden; 
+  }
+  .fab:hover {    
+    visibility: hidden; 
+  }
+  .start-button:hover {    
+    visibility: hidden; 
+  }
+  .answer:hover {    
+    visibility: hidden; 
+  }
+  .reset-button:hover {    
+    visibility: hidden;
+   }
+  .next-button:hover {   
+    visibility: hidden;
+   }
 }
