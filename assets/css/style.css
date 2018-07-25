@@ -266,6 +266,8 @@ footer {
 
 /* No format for Return to Home button - using default - blue */
 
+
+
 /* Media Queries */
 
 /* On screens that are 600px or less, resize headline */
@@ -335,4 +337,15 @@ footer {
   body {
     padding-bottom: 12rem;
   }
+}
+
+/* Remove hover to avoid inadvertently highlighting selection */
+
+@media (hover: none) {
+  #oneStop:hover {color: inherit; }
+  .fab:hover {color: inherit; }
+  .start-button:hover {color: inherit; }
+  .answer:hover {color: inherit; }
+  .reset-button:hover {color: inherit; }
+  .next-button:hover {color: inherit; }
 }
