@@ -267,21 +267,17 @@ footer {
 /* No format for Return to Home button - using default - blue */
 
 
-
-/* Media Queries */
+    /* MEDIA QUERIES */
 
 /* On screens that are 600px or less, resize headline */
 @media screen and (max-width: 600px) {
-
   .card-title-main {
     font-size: 30px;
     font-weight: 600;
   }
-
   .card-title {
     font-size: 30px;
   }
-
 }
 
 /* On screens that are 600px or less, activate line break */
@@ -336,5 +332,15 @@ footer {
 @media screen and (max-width: 600px) {
   body {
     padding-bottom: 12rem;
+  }
+}
+
+/* On screens that are 600px or less, reduce size of scoreboard */
+@media screen and (max-width: 600px) {
+  .scoreboard {
+    font-size: 30px;
+  }
+  .scores {
+    width: 85%;
   }
 }
