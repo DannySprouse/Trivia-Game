@@ -1,7 +1,7 @@
 # TriviaGame
 TRIVIA GAME
 
-Tools: HTML5, CSS3, Bootstrap4, JavaScript, jQuery, Google Fonts
+Tools: HTML5, CSS3, Bootstrap4, JavaScript, jQuery, Google Fonts, Media Queries
 
 Responsiveness:  Game is completely responsive and can be played on a desktop, laptop, tablet/pad or smartphone
 
@@ -16,6 +16,8 @@ My Technical Approach: I divided this project into three primary sections. HTML:
 CSS: Because this was a trivia/quiz game about U.S. state capital cities, I wanted to give the page a U.S. patriotic feel. There is a red-white-blue theme throughout, and I utilized Alex Brush Google font to approximate a U.S. Constitution script (without having to purchase a more authentic font).  I also wanted users to play the game on virtually any device so focused on making it mobile responsive.
 
 JavaScript/jQuery: Set document.ready as usual for jQuery. Created a large object to contain many properties. Within this object, I included all the various choice options, nested several arrays that included the question numbers, questions, possible responses, correct responses and images, ensuring that each item in the various arrays rested at the appropriate index within the array. Finally the clock and counter were included in the object. Start screen was set so that once the user clicked the begin game button, the first question was displayed and the timer started the 20 seconds countdown. A function was set to run all questions from the array, and get the player to the end screen. Functions tracking correct, incorrect and timeout were created, and the results of the calculated scores displayed on the end screen. A game reset was added at the end as well as the option to move on to the next set of questions.
+
+Testing:  The game functions as expected when played in Chrome (68), Firefox ESR (60), IE (11) and Opera (54) browsers; on desktop (Win7) and laptop (Win7); and on iPad Air 2 and iPhone 8S devices (using Safari, Chrome and Firefox browsers). 
 
 Licenses, Credits & Attributions: The banner image of the U.S. flag and capitol was purchased as a license from iStockPhoto in June 2018. All map images on this page were provided free from One Stop Map: https://www.onestopmap.com/.
 
