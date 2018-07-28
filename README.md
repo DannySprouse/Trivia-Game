@@ -3,6 +3,8 @@ TRIVIA GAME
 
 Tools: HTML5, CSS3, Bootstrap4, JavaScript, jQuery, Google Fonts, Media Queries
 
+Purpose:  PC gaming; web application US state capitals quiz
+
 Responsiveness:  Game is completely responsive and can be played on a desktop, laptop, tablet/pad or smartphone
 
 Summary: This is a U.S. State Capitals trivia game that consists of a home page with links to four regions of the U.S. with a subset of U.S. states representing that region. The game has a countdown timer where the user has to select their answer within a matter of seconds, and provides a summary score at the end of each round, or region played. The player can receive one of three messages during play: either time is up, their response is correct, or their response is incorrect.
